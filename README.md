@@ -25,4 +25,4 @@ Sou um profissional com mais de 5 anos de experiência no setor industrial e de 
 ---
 
 ### 📫 Vamos nos conectar?
-[Link para seu LinkedIn ou E-mail aqui]
+brayan.tst21@gmail.com
