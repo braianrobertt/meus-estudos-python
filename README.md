@@ -1,5 +1,5 @@
 # meus-estudos-python
-# Olá, eu sou o [Seu Nome]! 👋
+# Olá, eu sou o Braian! 👋
 
 ### 🛠 Técnico Eletromecânico & Entusiasta de Tecnologia (Python)
 
@@ -9,7 +9,7 @@ Sou um profissional com mais de 5 anos de experiência no setor industrial e de 
 
 ### 🚀 Sobre Mim
 * 📍 Localizado em Santa Cruz do Sul, RS.
-* ⚙️ Experiência sólida como **Técnico Eletromecânico** e **Técnico em Segurança do Trabalho**.
+* ⚙️ Experiência como **Técnico Eletromecânico** e **Técnico em Segurança do Trabalho**.
 * 🚒 **Bombeiro Civil Nível 1**, o que me deu disciplina e foco em resolução de problemas sob pressão.
 * 🏃‍♂️ Atualmente treinando para o **TAF 2026** e focado em metas de hipertrofia.
 
